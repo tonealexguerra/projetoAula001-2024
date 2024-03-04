@@ -1,0 +1,9 @@
+D:\PROJETOC#\Projeto001-2024\Projeto001-2024\bin\Debug\Projeto001-2024.exe.config
+D:\PROJETOC#\Projeto001-2024\Projeto001-2024\bin\Debug\Projeto001-2024.exe
+D:\PROJETOC#\Projeto001-2024\Projeto001-2024\bin\Debug\Projeto001-2024.pdb
+D:\PROJETOC#\Projeto001-2024\Projeto001-2024\obj\Debug\Projeto001-2024.csproj.AssemblyReference.cache
+D:\PROJETOC#\Projeto001-2024\Projeto001-2024\obj\Debug\Projeto001-2024.csproj.CoreCompileInputs.cache
+D:\PROJETOC#\Projeto001-2024\Projeto001-2024\obj\Debug\Projeto001-2024.exe
+D:\PROJETOC#\Projeto001-2024\Projeto001-2024\obj\Debug\Projeto001-2024.pdb
+D:\PROJETOC#\Projeto001-2024\Projeto001-2024\obj\Debug\Projeto001_2024.Form1.resources
+D:\PROJETOC#\Projeto001-2024\Projeto001-2024\obj\Debug\Projeto001-2024.csproj.GenerateResource.cache
